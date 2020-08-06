@@ -28,7 +28,7 @@
     "override_web_orientation": "LANDSCAPE",
     "navigation_menu_version": "NAV_FLOATING",
     "match_player_config": {
-      "min_context_size": 2,
+      "min_context_size": 1,
       "max_context_size": 20
     }
   }
